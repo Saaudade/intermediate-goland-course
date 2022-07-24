@@ -1,1 +1,1 @@
-# intermediate-goland-course
+# advanced-goland-course
